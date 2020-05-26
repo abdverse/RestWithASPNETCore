@@ -1,0 +1,17 @@
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.AssemblyInfoInputs.cache
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.AssemblyInfo.cs
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\APIRestASPNETCore.deps.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\APIRestASPNETCore.runtimeconfig.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\APIRestASPNETCore.runtimeconfig.dev.json
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\APIRestASPNETCore.dll
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\bin\Debug\netcoreapp2.1\APIRestASPNETCore.pdb
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.csprojAssemblyReference.cache
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.RazorAssemblyInfo.cache
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.RazorAssemblyInfo.cs
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.RazorTargetAssemblyInfo.cache
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.dll
+D:\Projetos\Projetos cursos\APIRestASPNETCore\APIRestASPNETCore\APIRestASPNETCore\obj\Debug\netcoreapp2.1\APIRestASPNETCore.pdb
